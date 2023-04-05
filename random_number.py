@@ -1,6 +1,6 @@
 import numpy as np
 def random_predict(number:int=1) -> int:
-    count = 0
+    count =0
     min = 0
     max = 100
     while True:
